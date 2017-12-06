@@ -1,4 +1,4 @@
-FROM openjdk:8-jre-alpine
+FROM openjdk:9-jre-alpine
 
 ENV ATD_VERSION 081310
 
